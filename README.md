@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome👋 :wave:</h1>
 
 <div align="center">
-<img src="[[https://telegra.ph/file/2ed06fa23c3caaa81e124.jpg]" alt="jadibot-md" width="300" />
+<img src="[[https://telegra.ph/file/2ed06fa23c3caaa81e124.jpg]]" alt="jadibot-md" width="300" />
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
  </p>
