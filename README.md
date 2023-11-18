@@ -147,6 +147,10 @@ Start and Scan QR<br />
 npm start
 ```
 
-# Thanks To
-
--   [`Doramisi1`](https://github.com/Doramisi1)
+• Special Thanks To •
+- PiahnZC [Developer industri]
+- Nikcy [Asisten Developer Server]
+- Sarif [Designer]
+- Ren [Tester]
+- Xlac [API-public]
+- Jenar [Community Manager]
