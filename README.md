@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome👋 :wave:</h1>
 
 <div align="center">
-<img src="https://telegra.ph/file/3024b63e3b52707d6a696.jpg" alt="jadibot-md" width="300" />
+<img src="[https://telegra.ph/file/3024b63e3b52707d6a696.jpg](https://telegra.ph/file/2ed06fa23c3caaa81e124.jpg)" alt="jadibot-md" width="300" />
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
  </p>
@@ -11,13 +11,13 @@
 
 ## Sorotan
 
--   [x] Simple Penggunaan
--   [x] Mudah digunakan
--   [x] Mudah untuk dirawat/diperbaiki
+-   [x] Simple Penggunaan dan bisa di edit sepenuhnya 
+-   [x] Mudah digunakan 
+-   [x] Mudah untuk dirawat/diperbaiki 
 -   [x] Ringan
--   [x] Anti delay
--   [x] Unik
--   [x] Anti Pasaran!
+-   [x] Anti delay dan kalo delay bisa chat creatornya
+-   [x] Unik 
+-   [x] Anti Pasaran! 
 
 # Baca Ini!
 
